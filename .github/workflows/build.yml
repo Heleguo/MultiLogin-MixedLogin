@@ -49,5 +49,5 @@ jobs:
         with:
           name: Build
           path: |
-             velocity/build/libs/MultiLogin-*.jar
+             openvc/build/libs/MultiLogin-*.jar
 
